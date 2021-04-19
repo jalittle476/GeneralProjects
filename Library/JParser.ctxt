@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=JParser
+comment1.params=
+comment1.target=void\ main()
+comment2.params=is
+comment2.target=void\ closeStream(java.io.InputStream)
+comment3.params=http
+comment3.target=java.io.InputStream\ openURL(java.lang.String)
+comment4.params=
+comment4.target=void\ setURL()
+numComments=5

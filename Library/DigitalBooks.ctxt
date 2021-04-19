@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DigitalBooks
+comment0.text=\n\ Write\ a\ description\ of\ class\ eBooks\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=title
+comment1.target=DigitalBooks(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ eBooks\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

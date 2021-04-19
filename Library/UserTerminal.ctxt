@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=UserTerminal
+comment0.text=\n\ Write\ a\ description\ of\ class\ UserTerminal\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ demo()
+comment2.params=
+comment2.target=java.lang.String\ getSearchInput()
+comment3.params=userInput
+comment3.target=java.lang.String\ removeSpecialChars(java.lang.String)
+numComments=4
